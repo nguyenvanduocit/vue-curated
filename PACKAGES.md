@@ -1,11 +1,7 @@
-# Core
+# JS Framework
 
 - [vue](https://github.com/vuejs/vue), vue:1.0|2.0, links:[website](https://vuejs.org/)|[guide](https://vuejs.org/v2/guide/)|[api](https://vuejs.org/v2/api/)|[examples](https://vuejs.org/v2/examples/), badge:official, status:stable
 
-# Routing
+# Slider
 
-- [vue-router](https://github.com/vuejs/vue-router), vue:1.0|2.0, links:[doc](https://github.com/vuejs/vue-router), badge:official, status:stable
-
-# State management
-
-- [vuex](https://github.com/vuejs/vuex/), vue:1.0|2.0, links:[doc](http://vuex.vuejs.org/), badge:official, status:stable
+- [slick](https://github.com/kenwheeler/slick/), links:[doc](http://kenwheeler.github.io/slick/)|[examples](http://kenwheeler.github.io/slick/), status:stable
