@@ -13,3 +13,11 @@
 # HTTP client
 
 - [axios](https://github.com/mzabriskie/axios), links:[home](https://github.com/mzabriskie/axios), status:stable
+
+# Polyfill
+
+- [es6-promise](https://github.com/stefanpenner/es6-promise), links:[home](https://github.com/stefanpenner/es6-promise), status:stable
+
+# GraphQL
+
+- [apollo-client](https://github.com/apollographql/apollo-client), links:[home](https://github.com/apollographql/apollo-client), status:stable
