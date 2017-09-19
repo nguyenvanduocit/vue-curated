@@ -21,3 +21,4 @@
 # GraphQL
 
 - [apollo-client](https://github.com/apollographql/apollo-client), links:[home](https://github.com/apollographql/apollo-client)|[API Reference](http://dev.apollodata.com/core/apollo-client-api.html), status:stable
+- [vue-apollo](https://github.com/Akryum/vue-apollo), links:[example](https://jsfiddle.net/Akryum/oyejk2qL/)|[doc](https://github.com/Akryum/vue-apollo), status:stable
