@@ -6,6 +6,10 @@
 
 - [slick](https://github.com/kenwheeler/slick/), links:[doc](http://kenwheeler.github.io/slick/)|[examples](http://kenwheeler.github.io/slick/), status:stable
 
-# Style
+# Styling
 
 - [normalize.css](https://github.com/necolas/normalize.css), links:[home](https://necolas.github.io/normalize.css/)|[doc](https://github.com/necolas/normalize.css), status:stable
+
+# HTTP client
+
+- [axios](https://github.com/mzabriskie/axios), links:[home](https://github.com/mzabriskie/axios), status:stable
