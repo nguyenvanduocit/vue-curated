@@ -20,4 +20,4 @@
 
 # GraphQL
 
-- [apollo-client](https://github.com/apollographql/apollo-client), links:[home](https://github.com/apollographql/apollo-client), status:stable
+- [apollo-client](https://github.com/apollographql/apollo-client), links:[home](https://github.com/apollographql/apollo-client)|[API Reference](http://dev.apollodata.com/core/apollo-client-api.html), status:stable
