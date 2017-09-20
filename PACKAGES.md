@@ -34,4 +34,5 @@
 
 # Service Worker
 
-- [sw-precache](https://github.com/GoogleChromeLabs/sw-precache), badge:Google, status:stable
+- [sw-precache](https://github.com/GoogleChromeLabs/sw-precache), badge:By Google, status:stable
+- [sw-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox), badge:By Google, status:stable
