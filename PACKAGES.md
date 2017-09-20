@@ -9,6 +9,7 @@
 # Styling
 
 - [normalize.css](https://github.com/necolas/normalize.css), links:[home](https://necolas.github.io/normalize.css/)|[doc](https://github.com/necolas/normalize.css), status:stable
+- [css-modules](https://github.com/css-modules/postcss-modules), links:[doc](https://github.com/css-modules/css-modules/tree/master/docs): status: stable
 
 # HTTP client
 
