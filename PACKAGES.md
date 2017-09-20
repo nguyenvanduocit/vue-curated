@@ -9,7 +9,7 @@
 # Styling
 
 - [normalize.css](https://github.com/necolas/normalize.css), links:[home](https://necolas.github.io/normalize.css/)|[doc](https://github.com/necolas/normalize.css), status:stable
-- [css-modules](https://github.com/css-modules/postcss-modules), links:[doc](https://github.com/css-modules/css-modules/tree/master/docs): status: stable
+- [css-modules](https://github.com/css-modules/postcss-modules), badge:PostCss, links:[doc](https://github.com/css-modules/css-modules/tree/master/docs): status: stable
 
 # HTTP client
 
@@ -37,3 +37,4 @@
 
 - [sw-precache](https://github.com/GoogleChromeLabs/sw-precache), badge:By Google, status:stable
 - [sw-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox), badge:By Google, status:stable
+- [sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin), badge:webpack, status:stable
