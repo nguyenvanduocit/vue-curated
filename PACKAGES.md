@@ -13,6 +13,7 @@
 # HTTP client
 
 - [axios](https://github.com/mzabriskie/axios), links:[home](https://github.com/mzabriskie/axios), status:stable
+- [http-fake-backend](https://github.com/micromata/http-fake-backend), links:[doc](https://github.com/micromata/http-fake-backend), status:stable
 
 # Polyfill
 
@@ -22,3 +23,11 @@
 
 - [apollo-client](https://github.com/apollographql/apollo-client), links:[home](https://github.com/apollographql/apollo-client)|[API Reference](http://dev.apollodata.com/core/apollo-client-api.html), status:stable
 - [vue-apollo](https://github.com/Akryum/vue-apollo), links:[example](https://jsfiddle.net/Akryum/oyejk2qL/)|[doc](https://github.com/Akryum/vue-apollo), status:stable
+
+# Utils
+
+- [lodash](https://github.com/lodash/lodash), links:[doc](https://lodash.com/docs/), status:stable
+
+# Date
+
+- [date-fns](https://github.com/date-fns/date-fns), links:[doc](https://github.com/date-fns/date-fns), status:pre-release
