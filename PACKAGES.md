@@ -1,6 +1,6 @@
 # JS Framework
 
-- [vue](https://github.com/vuejs/vue), links:[website](https://vuejs.org/)|[guide](https://vuejs.org/v2/guide/)|[api](https://vuejs.org/v2/api/)|[examples](https://vuejs.org/v2/examples/), status:stable
+- [vue](https://github.com/vuejs/vue),badge:Vuejs, links:[website](https://vuejs.org/)|[guide](https://vuejs.org/v2/guide/)|[api](https://vuejs.org/v2/api/)|[examples](https://vuejs.org/v2/examples/), status:stable
 
 # Slider
 
@@ -23,7 +23,7 @@
 # GraphQL
 
 - [apollo-client](https://github.com/apollographql/apollo-client), links:[home](https://github.com/apollographql/apollo-client)|[API Reference](http://dev.apollodata.com/core/apollo-client-api.html), status:stable
-- [vue-apollo](https://github.com/Akryum/vue-apollo), links:[example](https://jsfiddle.net/Akryum/oyejk2qL/)|[doc](https://github.com/Akryum/vue-apollo), status:stable
+- [vue-apollo](https://github.com/Akryum/vue-apollo),badge:Vuejs, links:[example](https://jsfiddle.net/Akryum/oyejk2qL/)|[doc](https://github.com/Akryum/vue-apollo), status:stable
 
 # Utils
 
