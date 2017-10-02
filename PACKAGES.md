@@ -2,6 +2,10 @@
 
 - [vue](https://github.com/vuejs/vue),badge:Vuejs, links:[website](https://vuejs.org/)|[guide](https://vuejs.org/v2/guide/)|[api](https://vuejs.org/v2/api/)|[examples](https://vuejs.org/v2/examples/), status:stable
 
+# Maps
+
+- [vue-googlemaps](https://github.com/akryum/vue-googlemaps), badge:Vuejs, links:[doc](https://github.com/akryum/vue-googlemaps#installation)|[examples](https://akryum.github.io/vue-googlemaps/#/), status:wip
+
 # Slider
 
 - [slick](https://github.com/kenwheeler/slick/), links:[doc](http://kenwheeler.github.io/slick/)|[examples](http://kenwheeler.github.io/slick/), status:stable
