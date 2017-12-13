@@ -42,3 +42,7 @@
 - [sw-precache](https://github.com/GoogleChromeLabs/sw-precache), badge:By Google, status:stable
 - [sw-toolbox](https://github.com/GoogleChromeLabs/sw-toolbox), badge:By Google, status:stable
 - [sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin), badge:webpack, status:stable
+
+# Effect
+
+- [scrollreveal](https://github.com/jlmakes/scrollreveal), links:[demo](https://scrollrevealjs.org/), status:stable
